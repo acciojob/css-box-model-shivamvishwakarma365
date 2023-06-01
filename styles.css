@@ -1,7 +1,9 @@
 
 /* Your CSS Code here. */
 div{
-	border:15px solid blue;
+	width:300px;
+	border:15px solid rgb(0, 0, 255);
 	padding:50px;
-	background-color:lightblue;
+	margin:20px;
+	background-color:rgb(173, 216, 230);
 }
